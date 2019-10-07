@@ -127,19 +127,3 @@ class Game():
                     print("You have the higher hand.")
                     print("You win!\n")
                     self.player.earn(int(wager*1.5))
-
-
-
-
-
-            
-
-
-
-
-
-
-
-    
-
-    
